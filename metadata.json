@@ -1,0 +1,6 @@
+{
+  "name": "Woorden Voorspeller",
+  "description": "Een interactieve tool die statistisch de top 5 meest logische vervolgwoorden voorspelt op basis van kunstmatige intelligentie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
